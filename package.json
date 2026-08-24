@@ -4,7 +4,7 @@
   "private": true,
   "description": "submit yearbook quotes",
   "author": "GitHub <undefined>",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/codespace/yearbook-quote-app",
   "keywords": [
     "probot",
